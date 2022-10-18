@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//run the following in terminal to compile file
+// gcc -o outputName filename.c
+// ex. ~$ gcc -o myExecutableOutput hello.c
+//then run using ~$ ./myExecutableOutput
+
 //main() method
 //program will look for main() method and execute instructions within the method
 int main()
@@ -56,7 +61,7 @@ int main()
     && (returns true if both are true)
     || (OR returns true if one statement is true)
     ! (reverse the result)
-    
+
     */
 
 
